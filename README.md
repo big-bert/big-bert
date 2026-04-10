@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bertrand; I have lived and worked in Port-au-Prince, New-York, Boston, Hanoi and Paris.
+- 👋 Hi, I’m Bertrand; i am based in Rome, Italy. I have lived and worked in Port-au-Prince, New-York, Boston, Hanoi, Paris and Dakar.
 - 👀 I love learning new things. 
 - 🌱 I’m a Sciences Po Paris graduate and a graduate from ENSIBS as a cyberdefense engineer.
 - 📫 How to reach me [@bertrandmart1](https://twitter.com/bertrandmart1) on Twitter
